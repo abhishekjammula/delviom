@@ -1,5 +1,6 @@
 Test File for Git Integration
 Introducing a new feature
+this is just to practice the git command
 
 Edited by Rachana.
 Second edit.
