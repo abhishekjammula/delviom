@@ -1,4 +1,4 @@
-Adding a new piece of code
+
 
   stages {
     stage('build') {
@@ -17,10 +17,3 @@ Adding a new piece of code
 
 
 
-
-Abhishek 
-
-Introduced 
-
-
-}
